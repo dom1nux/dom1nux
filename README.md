@@ -1,2 +1,2 @@
 ## My Learning Journey
-[![roadmap.sh](https://roadmap.sh/card/tall/68e620021d72874d1018bb61?variant=dark&roadmaps=%2Clinux%2Cdocker%2Cpython)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/68e620021d72874d1018bb61?variant=dark&roadmaps=linux%2Cdocker%2Csql%2Cgit-github)](https://roadmap.sh)
